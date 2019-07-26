@@ -55,7 +55,7 @@ La realización de los requisitos se hizo junto al fonoaudiólogo Álvaro Rodrí
 
 # Diagrama de estructura de datos (DED)
 
-![GitHub Logo](Prints/Modelo_Relacional_BD.png)
+![GitHub Logo](Prints/ModeloRelacionalBD.png)
 
 # Prints
 
