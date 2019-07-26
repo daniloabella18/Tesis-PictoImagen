@@ -47,18 +47,30 @@ La realización de los requisitos se hizo junto al fonoaudiólogo Álvaro Rodrí
 
 # Diagrama de casos de uso
 
-![GitHub Logo](Imagenes/InGame.png)
+![GitHub Logo](Prints/Diagrama de Casos de Uso.png)
 
 # Modelo de objetos del análisis
 
-![GitHub Logo](Imagenes/InGame.png)
+![GitHub Logo](Prints/Análisis OO.png)
 
 # Diagrama de estructura de datos (DED)
 
-![GitHub Logo](Imagenes/InGame.png)
+![GitHub Logo](Prints/Modelo Relacional BD.png)
 
 # Prints
 
-![GitHub Logo](Imagenes/InGame.png)
+![GitHub Logo](Prints/Tematica.png)
+
+![GitHub Logo](Prints/Tema.png)
+
+![GitHub Logo](Prints/Actividad.png)
+
+![GitHub Logo](Prints/Disc. Auditiva.png)
+
+![GitHub Logo](Prints/Responsive.png)
+
+![GitHub Logo](Prints/GU.png)
 
 # Ejemplo de Reporte #2
+
+![GitHub Logo](Prints/GU.png)
