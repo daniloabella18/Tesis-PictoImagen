@@ -1,5 +1,4 @@
 # Estrategia de interfaz humano computador en el desarrollo cognitivo de personas con trastornos del espectro autista
-# Danilo Guillermo Abella de Oliveira
 
 Trabajo de titulación presentado en conformidad a los requisitos para obtener el grado de Analista en Computación Científica.
 
