@@ -47,11 +47,11 @@ La realización de los requisitos se hizo junto al fonoaudiólogo Álvaro Rodrí
 
 # Diagrama de casos de uso
 
-![GitHub Logo](Prints/Diagrama de Casos de Uso.png)
+![GitHub Logo](Prints/DiagramadeCasosdeUso.png)
 
 # Modelo de objetos del análisis
 
-![GitHub Logo](Prints/Análisis OO.png)
+![GitHub Logo](Prints/AnálisisOO.png)
 
 # Diagrama de estructura de datos (DED)
 
@@ -65,7 +65,7 @@ La realización de los requisitos se hizo junto al fonoaudiólogo Álvaro Rodrí
 
 ![GitHub Logo](Prints/Actividad.png)
 
-![GitHub Logo](Prints/Disc. Auditiva.png)
+![GitHub Logo](Prints/Disc.Auditiva.png)
 
 ![GitHub Logo](Prints/Responsive.png)
 
