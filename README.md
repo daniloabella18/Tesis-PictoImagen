@@ -73,4 +73,4 @@ La realización de los requisitos se hizo junto al fonoaudiólogo Álvaro Rodrí
 
 # Ejemplo de Reporte #2
 
-![GitHub Logo](Prints/Reporte2.pdf)
+[Intro.pdf](https://github.com/daniloabella18/Tesis-PictoImagen/blob/master/Prints/Reporte2.pdf)
