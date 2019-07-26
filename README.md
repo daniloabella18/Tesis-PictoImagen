@@ -51,7 +51,7 @@ La realización de los requisitos se hizo junto al fonoaudiólogo Álvaro Rodrí
 
 # Modelo de objetos del análisis
 
-![GitHub Logo](Prints/AnálisisOO.png)
+![GitHub Logo](Prints/AnalisisOO.png)
 
 # Diagrama de estructura de datos (DED)
 
