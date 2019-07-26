@@ -73,4 +73,5 @@ La realización de los requisitos se hizo junto al fonoaudiólogo Álvaro Rodrí
 
 # Ejemplo de Reporte #2
 
-[Intro.pdf](https://github.com/daniloabella18/Tesis-PictoImagen/blob/master/Prints/Reporte2.pdf)
+Reporte de cantidad de interacciones en cuadros realizadas por X usuario en cada actividad.
+[Reporte #2.pdf](https://github.com/daniloabella18/Tesis-PictoImagen/blob/master/Prints/Reporte2.pdf)
